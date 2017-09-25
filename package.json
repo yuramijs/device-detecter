@@ -1,8 +1,8 @@
 {
   "name": "device-detecter",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "description": "Detect os, mobile, desktop device and other",
-  "main": "device.js",
+  "main": "src/device.js",
   "author": "Mobilunity",
   "license": "ISC",
   "scripts": {
