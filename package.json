@@ -1,0 +1,15 @@
+{
+  "name": "device-detecter",
+  "version": "2.0.2",
+  "description": "Detect os, mobile, desktop device and other",
+  "main": "device.js",
+  "author": "Mobilunity",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "4.1.2",
+    "mocha": "3.5.3"
+  }
+}
